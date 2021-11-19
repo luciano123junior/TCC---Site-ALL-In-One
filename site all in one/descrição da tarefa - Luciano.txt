@@ -1,0 +1,12 @@
+Tempo de desenvolvimento: 
+2 horas e 41 minutos;
+
+PÁGINA:
+2 divs absolute:
+#imagem;
+#centro;
+
+Link onde eu peguei o menu (Obs: o rodapé também veio junto):
+https://codepen.io/Naymapl/pen/zwdyyX
+
+Não consegui deixa-lo responsivo :/
